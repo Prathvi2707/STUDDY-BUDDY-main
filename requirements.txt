@@ -1,8 +1,6 @@
-streamlit
-google-generativeai
-docx2txt
-python-docx
-PyPDF2
-PyMuPDF
-os
-docx
+streamlit>=1.35.0
+google-generativeai>=0.4.1
+docx2txt>=0.8
+python-docx>=1.1.0
+PyPDF2>=3.0.1
+PyMuPDF>=1.24.1
