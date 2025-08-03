@@ -1,9 +1,8 @@
 streamlit
-googel-generativeai
+google-generativeai
 docx2txt
-docx
-PyFPDF
-PyPDF2
 python-docx
-fitz 
+PyPDF2
+PyMuPDF
 os
+docx
