@@ -1,0 +1,9 @@
+streamlit
+googel-generativeai
+docx2txt
+docx
+PyFPDF
+PyPDF2
+python-docx
+fitz 
+os
